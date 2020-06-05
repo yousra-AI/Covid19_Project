@@ -1,6 +1,6 @@
 # Covid19_Project
 
-this Data Science Project is about extracting cleaning, and analysing covid19 data (for 4 juin 2020) with python.
+this Data Science Project is about extracting cleaning, and analysing covid19 data (for the 4th juin 2020) with python.
 
 
 ## web scraping
