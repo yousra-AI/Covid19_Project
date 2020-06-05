@@ -6,7 +6,7 @@ from wikipedia
 using requests library
 with read_html function
 
-##visualise data with Tableau
+## visualise data with Tableau
 
 ![bar_chart](https://user-images.githubusercontent.com/54323447/83825982-ad5b3480-a6d2-11ea-8a40-b0c3686e3468.PNG)
 
